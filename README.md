@@ -26,7 +26,7 @@ Recriação do Pong para aprender os fundamentos de C++ e desenvolvimento de jog
  
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/lucas-gs54/Pong-CPP.git
 ```
  
 2. Compile e rode seguindo as instruções do [Raylib CPP Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE)
